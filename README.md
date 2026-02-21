@@ -14,7 +14,7 @@ I made mono eye simple robot with M5 Atom S3R
 http://robo-takao.jp/NX27/e/index.html
 
 [Components]  
-1)M5 Atom S3R M5 or Atom S3 R CAM  
+1)M5 Atom S3R M5 or Atom S3 R CAM(with wide lens for smart phone)  
 2)M5 Stamp S3 with Round LCD  
 3)Servos SG92R x 5  
 4)Lithium Ion Battery 3.7V  
