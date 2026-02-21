@@ -23,7 +23,7 @@ http://robo-takao.jp/NX27/e/index.html
 ![image](NX27_06.jpg)
 
 [Code]  
-- M5AtomS3R
+- M5AtomS3R  
   NX27_M5AtomS3R  
 - M5AtomS3RCAM  
   NX27_M5AtomS3RCAM_FD  
