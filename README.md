@@ -13,9 +13,6 @@ I made mono eye simple robot with M5 Atom S3R
 [Summary]
 http://robo-takao.jp/NX27/e/index.html
 
-[Movie]  
-https://youtu.be/dSypsbotoIk?si=l2U4aASQqly9wj2C
-
 [Components]  
 1)M5 Atom S3R M5 or Atom S3 R CAM  
 2)M5 Stamp S3 with Round LCD  
@@ -27,10 +24,10 @@ https://youtu.be/dSypsbotoIk?si=l2U4aASQqly9wj2C
 
 [Code]  
 M5AtomS3R  
- NX27_M5AtomS3R  
+- NX27_M5AtomS3R  
 M5AtomS3RCAM  
- NX27_M5AtomS3RCAM_FD  
+- NX27_M5AtomS3RCAM_FD  
 M5StampS3  
- NX27_M5StampS3  
+- NX27_M5StampS3  
 M5StickC with JoyC  
- NX25_M5StickC_joyC  
+- NX25_M5StickC_joyC  
