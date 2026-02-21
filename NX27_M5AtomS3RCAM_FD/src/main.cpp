@@ -475,10 +475,8 @@ esp_err_t camera_capture_and_face_detect(){
       rfb.format = FB_RGB565;
 
       face_coordinate(&rfb, &results, face_id);
-  } else  {
-    xf=160;
-    yf=120;
   }
+  
   xf = int((0.3 * float(xfpre)) + (0.7 * float(xf)));
   yf = int((0.3 * float(yfpre)) + (0.7 * float(yf)));
   xfpre = xf;
