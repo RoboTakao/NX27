@@ -22,6 +22,9 @@ http://robo-takao.jp/NX27/e/index.html
 [Connection]  
 ![image](NX27_06.jpg)
 
+[Movie]
+https://youtu.be/JJnrGU0S4Y0?si=fY-Ztu40qN4Fet4e
+
 [Code]  
 - M5AtomS3R  
   NX27_M5AtomS3R  
